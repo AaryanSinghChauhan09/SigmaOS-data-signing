@@ -3,7 +3,7 @@ name = "SigmaOS-data-signing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "data-signing component"
+description = "No GitHub description is set; component scope remains unclassified."
 upstream = []
 
 [contract]
